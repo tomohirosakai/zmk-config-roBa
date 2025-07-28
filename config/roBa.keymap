@@ -145,7 +145,7 @@
 &kp LEFT_WIN      &kp ESCAPE  &kp LEFT_CONTROL  &lt 3 LANGUAGE_2  &kp SPACE  &kp BACKSPACE      &kp ENTER      &lt 4 LANGUAGE_1                                           &kp RIGHT_WIN
             >;
 
-            sensor-bindings = <&scroll_up_down>;
+            sensor-bindings = <&inc_dec_kp PAGE_UP PAGE_DOWN>;
         };
 
         windows_layer {
