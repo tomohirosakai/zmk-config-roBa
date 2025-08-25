@@ -177,10 +177,10 @@
 
         NUM {
             bindings = <
-&kp TAB  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp AMPERSAND                      &kp HASH         &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp TILDE
-&trans   &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp CARET      &trans      &trans  &kp AT_SIGN      &kp SQT            &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PERCENT
-&trans   &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp ASTERISK   &trans      &trans  &kp EXCLAMATION  &kp GRAVE          &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp DOLLAR
-&trans   &kp KP_NUMBER_0  &kp PERIOD       &trans           &trans         &trans      &trans  &trans                                                                           &trans
+&kp TAB  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp AMPERSAND                            &kp HASH         &kp DOUBLE_QUOTES  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp TILDE
+&trans   &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp CARET      &kp LEFT_ALT      &trans  &kp AT_SIGN      &kp SQT            &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp PERCENT
+&trans   &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp ASTERISK   &trans            &trans  &kp EXCLAMATION  &kp GRAVE          &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp DOLLAR
+&trans   &kp KP_NUMBER_0  &kp PERIOD       &trans           &trans         &trans            &trans  &trans                                                                           &trans
             >;
         };
 
